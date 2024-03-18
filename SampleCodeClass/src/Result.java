@@ -33,5 +33,7 @@ public class Result {
     void danielChong(){
         System.out.println("Testing");
     }
+    void myTest(){
+	System.out.println("Hi");
 
 }
